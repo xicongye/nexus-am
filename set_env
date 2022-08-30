@@ -1,0 +1,2 @@
+export AM_HOME=/home/yexicong/work/nexus-am
+export PATH=/home/yexicong/work/riscv-gnu-toolchain/build/install/bin:$PATH
